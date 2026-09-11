@@ -11,13 +11,13 @@ header{
 
 nav{
     position: absolute;
-    top:126px;
+    top: 126px;
     right: 0px;
 }
 
 nav li{
     display: inline;
-    margin: 0 0 0 15px;
+    margin:  0 0 0 15px;
 }
 
 nav a{
@@ -38,7 +38,6 @@ nav a:hover{
     margin: 0 auto;
     padding: 50px 0;
 }
-
 .produtos li{
      display: inline-block;
      text-align: center;
@@ -79,6 +78,9 @@ nav a:hover{
 }
 
 footer{
-    background-color: #cccccc;
     text-align: center;
+    background-image: url(./img/bg.jpg);
+    color: white;
+    padding: 40px 0;
+    font-size: 13px;
 }
