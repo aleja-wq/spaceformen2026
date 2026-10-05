@@ -42,8 +42,10 @@ nav a:hover{
     width: 100%;
 }
 
-main{
-    width: 940px;
+.principal{
+    
+    padding: 3em 0;
+    background-color: #fefefe;
     margin: 0 auto;
 }
 
@@ -74,6 +76,8 @@ main{
 
 .mapa{
     padding: 3em 0;
+    margin: 0 auto;
+    background: linear-gradient(#fefefe, #888888);
 }
 
 .mapa p{
@@ -81,8 +85,14 @@ main{
     text-align: center;
 }
 
+.mapa-conteudo{
+    width: 940px;
+    margin: 0 auto;
+}
+
 .beneficios{
     padding: 3em 0;
+    background-color: #888888;
 }
 
 .conteudo-beneficios{
